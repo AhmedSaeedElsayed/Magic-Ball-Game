@@ -3,9 +3,8 @@
 A new Flutter project.
 
 # Screenshot
-![Screenshot_1](https://user-images.githubusercontent.com/39589782/64610902-8b958100-d3d0-11e9-9994-865e2f6ded72.png)
+![Screenshot_1](https://user-images.githubusercontent.com/39589782/64610902-8b958100-d3d0-11e9-9994-865e2f6ded72.png) ![Screenshot_2](https://user-images.githubusercontent.com/39589782/64610993-b4b61180-d3d0-11e9-9575-011591c14f61.png)
 
-![Screenshot_2](https://user-images.githubusercontent.com/39589782/64610993-b4b61180-d3d0-11e9-9575-011591c14f61.png)
 
 
 ![Screenshot_3](https://user-images.githubusercontent.com/39589782/64611027-c4355a80-d3d0-11e9-9524-85c1484912f7.png)
